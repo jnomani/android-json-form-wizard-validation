@@ -28,11 +28,13 @@ Step directly corresponds to a fragment(or a page) in wizard. It consists of dif
                      "key":"name",
                      "type":"edit_text",
                      "hint":"Enter Your Name"
+                     "input-type":"name"
                  },
                  {
                      "key":"email",
                      "type":"edit_text",
                      "hint":"Enter email address"
+                     "input-type":"email"
                  },
                  {
                      "key":"labelBackgroundImage",
