@@ -1,8 +1,7 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20Json%20Wizard-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1848)
-
-
-Android Json Wizard
+Android Json Wizard with Form Validation
 =========
+
+See original repository here: https://github.com/vijayrawatsan/android-json-form-wizard
 
 Android Json Wizard is a library for creating beautiful form based wizards within your app just by defining json in a particular format.
 
